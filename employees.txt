@@ -1,4 +1,0 @@
-Ravi, Chennai,sales
-Priya, Madurai,sales
-Kumar, Chennai,HR
-Anitha,Coimbatore,HR
