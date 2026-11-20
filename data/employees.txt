@@ -1,0 +1,4 @@
+Ravi, Chennai,salaries
+Priya, Madurai,sales
+Kumar, Chennai,HR
+Anitha,Coimbatore,HR
